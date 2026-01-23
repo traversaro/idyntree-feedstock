@@ -1,7 +1,7 @@
 context:
   version: "14.2.0"
   name: idyntree
-  build: 0
+  build: 1
 
 recipe:
   name: ${{ name }}-split
