@@ -7,7 +7,7 @@ Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/idyntree-feedst
 About idyntree
 --------------
 
-Home: https://github.com/robotology/idyntree
+Home: https://github.com/gbionics/idyntree
 
 Package license: BSD-3-Clause
 
@@ -22,7 +22,7 @@ and visualization, with optional Python bindings.
 About idyntree-python
 ---------------------
 
-Home: https://github.com/robotology/idyntree
+Home: https://github.com/gbionics/idyntree
 
 Package license: BSD-3-Clause
 
@@ -37,7 +37,7 @@ and visualization, with optional Python bindings.
 About libidyntree
 -----------------
 
-Home: https://github.com/robotology/idyntree
+Home: https://github.com/gbionics/idyntree
 
 Package license: BSD-3-Clause
 

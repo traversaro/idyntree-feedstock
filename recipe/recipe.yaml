@@ -1,15 +1,15 @@
 context:
-  version: "14.2.0"
+  version: "14.3.0"
   name: idyntree
-  build: 1
+  build: 0
 
 recipe:
   name: ${{ name }}-split
   version: ${{ version }}
 
 source:
-  url: https://github.com/robotology/idyntree/archive/refs/tags/v${{ version }}.tar.gz
-  sha256: 51fee8457f415dc2710ca93e9a66a846aec9445dde09efea75520d00099deb66
+  url: https://github.com/gbionics/idyntree/archive/refs/tags/v${{ version }}.tar.gz
+  sha256: a47a3ac210f16cd757b2971b1b0ea591161f0c6745645edced5047a5db37f4a1
 
 build:
   number: ${{ build }}
@@ -140,7 +140,7 @@ outputs:
       summary: iDynTree metapackage that depends on libidyntree and idyntree-python.
 
 about:
-  homepage: https://github.com/robotology/idyntree
+  homepage: https://github.com/gbionics/idyntree
   license: BSD-3-Clause
   license_file: LICENSE
   summary: Multibody Dynamics Library designed for Free Floating Robots.
